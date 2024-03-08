@@ -1,4 +1,4 @@
-# QuizApp HAHA
+# QuizApp
 
 
 1. Database
